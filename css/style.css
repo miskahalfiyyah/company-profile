@@ -1,0 +1,36 @@
+.slider h3,
+.slider h5,
+.collabs h3 {
+    text-shadow: 5px 5px 8px rgba(0, 0, 0, 0.5);
+}
+
+.parallax img {
+    opacity: 0.5 !important;
+}
+
+.parallax-container {
+    height: 20%;
+}
+
+.collabs img {
+    max-width: 200px;
+    filter: drop-shadow rgba(0, 0, 0, 0.4);
+}
+
+.collection {
+    border: 0;
+
+}
+
+.section,
+footer {
+    padding: 20px 0;
+}
+
+.brand-logo {
+    font-family: 'Pacifico', cursive;
+}
+
+.contact {
+    padding: 5px 0;
+}
